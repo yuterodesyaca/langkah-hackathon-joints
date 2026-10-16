@@ -1,0 +1,10 @@
+{
+  "name": "Langkah — Pendampingan Siswa",
+  "short_name": "Langkah",
+  "description": "Platform pendampingan dini agar setiap siswa dapat terus melangkah.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#6958c9",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
