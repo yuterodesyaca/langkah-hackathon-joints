@@ -87,3 +87,4 @@ public/               # Manifest dan identitas visual
 ```
 
 Lihat [`docs/architecture.md`](docs/architecture.md) untuk keputusan teknis dan [`docs/pitch-guide.md`](docs/pitch-guide.md) untuk alur demonstrasi.
+# langkah-hackathon-joints
